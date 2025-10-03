@@ -4,5 +4,26 @@
     box-sizing: border-box;
 }
 body{
-    background-color: aqua;
+    background-color:beige;
+}
+ul{
+    padding: 10px;
+    background-color: brown;
+    text-align: right;
+    
+
+}
+li{
+    display: inline-block;
+     
+
+    
+
+}
+a{
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: white;
+    font-weight: 800;
+    padding: 30px;
 }
